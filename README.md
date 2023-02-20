@@ -46,13 +46,13 @@
 <br/>
 
 ### ERD
-!![0](https://user-images.githubusercontent.com/112140344/220112452-f234f137-674e-433b-bb0b-2583aec1568b.PNG)
+![0](https://user-images.githubusercontent.com/112140344/220112452-f234f137-674e-433b-bb0b-2583aec1568b.PNG)
 
 <br/>
 
 ### 수요분석
 * 이용시간 분포 확인
-![0220214929307574](https://user-images.githubusercontent.com/112140344/220112982-0b1c7066-0619-4f86-87a2-5e91d4071a49.jpg)
+![0220220645300533](https://user-images.githubusercontent.com/112140344/220117293-6f7ef6de-e073-4c31-98b9-6888125f0b11.jpg)
 
 <br/>
 

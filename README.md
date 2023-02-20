@@ -101,7 +101,7 @@
 <br/>
 
 * 활용 시나리오
-![42p_활용시나리오](https://user-images.githubusercontent.com/106140951/216995859-ab541792-700a-4cd3-890d-7e2de642082b.png)
+![KakaoTalk_20230220_215904882_06](https://user-images.githubusercontent.com/112140344/220123902-57e10eb5-0080-4a68-bb26-3a8f2bab902c.jpg)
 
 <br/>
 

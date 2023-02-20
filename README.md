@@ -80,7 +80,7 @@
 
 ### 모델링
 * 모델 로드맵
-![29p_모델로드맵](https://user-images.githubusercontent.com/106140951/216995329-5334f334-6568-4c22-b160-05f879b9df7f.png)
+![KakaoTalk_20230220_215904882_01](https://user-images.githubusercontent.com/112140344/220123156-17f4ceea-a888-4e09-899b-da609f6aab7b.jpg)
 
 <br/>
 

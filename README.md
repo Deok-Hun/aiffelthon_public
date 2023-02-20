@@ -85,7 +85,7 @@
 <br/>
 
 * 모델 예측 & 검증 확인
-![image](https://user-images.githubusercontent.com/106140951/216995481-ade466d2-4c8e-4fde-82af-f9f79a3d1b8d.png)
+![0220223731652743](https://user-images.githubusercontent.com/112140344/220123389-da22081d-f166-4534-b428-62c47443430a.jpg)
 
 <br/>
 

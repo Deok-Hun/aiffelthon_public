@@ -74,7 +74,7 @@
 
 ### 상관분석
 * 상관계수 가중치 계산
-![image](https://user-images.githubusercontent.com/106140951/216994968-e8b107ea-316f-43be-8f86-2ec7f0684819.png)
+![0220221656972634](https://user-images.githubusercontent.com/112140344/220119443-f76cb742-cb85-46df-8c38-81478cfee297.jpg)
 
 <br/>
 

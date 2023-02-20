@@ -52,7 +52,7 @@
 
 ### 수요분석
 * 이용시간 분포 확인
-![image](https://user-images.githubusercontent.com/106140951/216910810-65489dc8-2c47-459d-8b93-74c9346fae26.png)
+!![0220214929307574](https://user-images.githubusercontent.com/112140344/220112982-0b1c7066-0619-4f86-87a2-5e91d4071a49.jpg)
 
 <br/>
 

@@ -109,6 +109,10 @@
 * 보완 및 개선 가능성
 ![43p_보완점](https://user-images.githubusercontent.com/106140951/216995929-28376051-641a-4c06-939f-c6f196dd3906.png)
 
+* 회고
+![image](https://user-images.githubusercontent.com/112140344/220128208-d7438da9-b11c-49fe-8a1f-c7141b4bd950.png)
+
+
 
 
 

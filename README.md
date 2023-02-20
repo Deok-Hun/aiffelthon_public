@@ -57,7 +57,7 @@
 <br/>
 
 * 경기도 기준 분석/예측
-![image](https://user-images.githubusercontent.com/106140951/216999909-47ce6530-1c08-4078-a734-2927d6574b9c.png)
+![0220220816775945](https://user-images.githubusercontent.com/112140344/220117650-ce7a41d7-5f53-4959-90a0-9758b2bce499.jpg)
 
 <br/>
 

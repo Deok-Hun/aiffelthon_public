@@ -46,7 +46,7 @@
 <br/>
 
 ### ERD
-![10p_erd](https://user-images.githubusercontent.com/106140951/216994254-afbd2731-8ce2-4368-baa7-dfe97bf59550.jpg)
+!![0](https://user-images.githubusercontent.com/112140344/220112452-f234f137-674e-433b-bb0b-2583aec1568b.PNG)
 
 <br/>
 

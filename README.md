@@ -91,7 +91,7 @@
 
 ### 결론
 * 신규 쏘카존 위치 예시
-![image](https://user-images.githubusercontent.com/106140951/216998161-7f300cc2-3b64-4d07-96ba-7fce4a407cd2.png)
+![KakaoTalk_20230220_215904882_04](https://user-images.githubusercontent.com/112140344/220123668-ad7bbfc3-1091-4155-80c2-c70050f3f86d.jpg)
 
 <br/>
 

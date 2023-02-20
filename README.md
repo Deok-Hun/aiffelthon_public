@@ -110,7 +110,7 @@
 ![43p_보완점](https://user-images.githubusercontent.com/106140951/216995929-28376051-641a-4c06-939f-c6f196dd3906.png)
 
 * 회고
-![image](https://user-images.githubusercontent.com/112140344/220128208-d7438da9-b11c-49fe-8a1f-c7141b4bd950.png)
+![image](https://user-images.githubusercontent.com/112140344/220128312-c9b4c20d-9bec-44cc-a19f-1b006c8039be.png)
 
 
 

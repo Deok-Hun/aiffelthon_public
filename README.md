@@ -68,7 +68,7 @@
 <br/>
 
 ### folium 시각화
-* 역지역: 아파트 반경 500m & 쏘카존 위치 시각화
+* a지역: 아파트 반경 500m & 쏘카존 위치 시각화
 ![KakaoTalk_20230220_215904882_14](https://user-images.githubusercontent.com/112140344/220119152-d23e53ed-5cf7-4142-8564-4e94b00a508e.jpg)
 
 <br/>
